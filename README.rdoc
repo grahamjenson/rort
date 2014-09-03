@@ -1,0 +1,3 @@
+# MOVIE RECOMMENDATIONS SERVICE
+This is an example Rails application to work with the Good Enough Recommendations (GER) engine as a Heroku Addon.
+
